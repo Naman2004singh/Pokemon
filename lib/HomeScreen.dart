@@ -2,20 +2,20 @@ import 'dart:async';
 //import 'dart:nativewrappers/_internal/vm/lib/ffi_allocation_patch.dart';
 
 import 'package:flutter/material.dart';
-import 'package:pokemon/DetailScreen01.dart';
-import 'package:pokemon/DetailScreen02.dart';
-import 'package:pokemon/DetailScreen03.dart';
-import 'package:pokemon/DetailScreen04.dart';
-import 'package:pokemon/DetailScreen05.dart';
-import 'package:pokemon/DetailScreen06.dart';
-import 'package:pokemon/DetailScreen07.dart';
-import 'package:pokemon/DetailScreen08.dart';
-import 'package:pokemon/DetailScreen09.dart';
-import 'package:pokemon/DetailScreen10.dart';
-import 'package:pokemon/DetailScreen11.dart';
-import 'package:pokemon/DetailScreen12.dart';
-import 'package:pokemon/DetailScreen13.dart';
-import 'package:pokemon/DetailScreen14.dart';
+import 'package:pokemon/screens/DetailScreen01.dart';
+import 'package:pokemon/screens/DetailScreen02.dart';
+import 'package:pokemon/screens/DetailScreen03.dart';
+import 'package:pokemon/screens/DetailScreen04.dart';
+import 'package:pokemon/screens/DetailScreen05.dart';
+import 'package:pokemon/screens/DetailScreen06.dart';
+import 'package:pokemon/screens/DetailScreen07.dart';
+import 'package:pokemon/screens/DetailScreen08.dart';
+import 'package:pokemon/screens/DetailScreen09.dart';
+import 'package:pokemon/screens/DetailScreen10.dart';
+import 'package:pokemon/screens/DetailScreen11.dart';
+import 'package:pokemon/screens/DetailScreen12.dart';
+import 'package:pokemon/screens/DetailScreen13.dart';
+import 'package:pokemon/screens/DetailScreen14.dart';
 
 class HomeScreen extends StatefulWidget {
   @override
